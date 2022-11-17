@@ -1,6 +1,6 @@
 # Página web con diseño responsive
 
-Paguina web desarrollada en base a una plantilla mediante códigp de HTML y CSS.
+Paguina web desarrollada en base a una plantilla mediante código de HTML y CSS.
 
 Link de la págin web: https://carlopsd.github.io/CSS-OpenBootcamp/
 
